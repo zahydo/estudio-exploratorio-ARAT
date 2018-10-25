@@ -1,7 +1,7 @@
 <h1>Experimento ARAT</h1>
 <p>
 	En este respositorio se encuentran todos los archivos necesarios para llevar a cabo la ejecución
-	de un experimento controlado enfocado en la verificación de la utilidad de una herramienta Software
+	de un estudio exploratorio enfocado en la verificación de la utilidad de una herramienta Software
 	basada en anotaciones de código fuente Java, como una forma rápida y efectiva de documentar las razones de las decisiones arquitecturales, más conocidas como Rationale Arquitectónico.
 </p>
 <p>
