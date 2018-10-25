@@ -1,4 +1,4 @@
-<h1>Experimento ARAT</h1>
+<h1>Estudio exploratorio sobre ARAT</h1>
 <p>
 	En este respositorio se encuentran todos los archivos necesarios para llevar a cabo la ejecución
 	de un estudio exploratorio enfocado en la verificación de la utilidad de una herramienta Software
